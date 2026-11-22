@@ -201,7 +201,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Euro Truck Simulator 2 · Updated 2026-11-21 · Shared under the MIT License*
+*Euro Truck Simulator 2 · Updated 2026-11-22 · Shared under the MIT License*
 
 
-Updated 2026-11-21.
+Updated 2026-11-22.
